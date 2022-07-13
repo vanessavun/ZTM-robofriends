@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ztm-robofriends/precache-manifest.043a26e05d08c5e645de171de58255ab.js"
+  "/ZTM-robofriends/precache-manifest.481a84c51bdf9875dae19881fa58a434.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ztm-robofriends/index.html", {
+workbox.routing.registerNavigationRoute("/ZTM-robofriends/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
