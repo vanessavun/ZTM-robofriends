@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ZTM-robofriends
 
 This project was a code-along to learn [how to create a React App with ZTM](https://github.com/aneagoie/robofriends).
 
@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# ZTM-robofriends
+
